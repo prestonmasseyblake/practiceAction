@@ -8,4 +8,5 @@ using namespace std;
 int main(){
     cout<<"another day another dollar"<<endl;
     cout << "I love Hardik"<<endl;
+    cout << "I love Hardik" << endl;
 }
